@@ -1,2 +1,2 @@
-# C_FizzBuzz
+# C-FizzBuzz
 Enzo Ihadjadene INT4
